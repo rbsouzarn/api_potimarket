@@ -11,7 +11,22 @@
       "weight": "13g-16g",
       "amountkg": "60/70",
       "type": "Fresh, No Head",
-      "state": "RN"
+      "state": "RN",
+      "image":"",
+      "stars": 3
+    }
+  ],
+  "topdemands": [
+    {
+      "id": 1,
+      "kind": "L Vannamei",
+      "price": 15000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh, No Head",
+      "state": "RN",
+      "stars": 3
     }
   ]
 }
