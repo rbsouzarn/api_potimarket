@@ -1,11 +1,17 @@
 {
-  "posts": [
+  "login": {
+    "name": "Teste Candidato"
+  }
+  "topsales": [
     {
       "id": 1,
-      "title": "hello"
+      "kind": "L Vannamei",
+      "price": 15000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh, No Head",
+      "state": "RN"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
