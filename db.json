@@ -12,15 +12,73 @@
       "amountkg": "60/70",
       "type": "Fresh, No Head",
       "state": "RN",
-      "image":"",
+      "image":"https://lojaryualimentos.com.br/wp-content/uploads/2020/09/camarao-desc-congelado-rosa-0-extra-500x500.jpg",
+      "stars": 1
+    },
+    {
+      "id": 1,
+      "kind": "L Vannamei2",
+      "price": 16000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh",
+      "state": "CE",
+      "image":"https://www.receitasagora.com.br/wp-content/uploads/2019/05/camarao-a-provencal.jpg",
+      "stars": 2
+    },
+    {
+      "id": 1,
+      "kind": "L Vannamei3",
+      "price": 17000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh, No Head",
+      "state": "ES",
+      "image":"https://cdn.shopify.com/s/files/1/0051/0518/8934/products/camaraocozidoresized_640x.jpg",
       "stars": 3
+    },
+    {
+      "id": 1,
+      "kind": "L Vannamei4",
+      "price": 18000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh",
+      "state": "GO",
+      "image":"https://d3ugyf2ht6aenh.cloudfront.net/stores/820/317/products/camarao-img_00611-d5e6b1b9283caa208415352850707056-1024-1024.jpg",
+      "stars": 4
     }
   ],
   "topdemands": [
     {
       "id": 1,
-      "kind": "L Vannamei",
-      "price": 15000,
+      "kind": "L Vannamei5",
+      "price": 19000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh, No Head",
+      "state": "RN",
+      "stars": 3
+    },
+    {
+      "id": 2,
+      "kind": "L Vannamei6",
+      "price": 20000,
+      "duedate": "6/12/2021",
+      "weight": "13g-16g",
+      "amountkg": "60/70",
+      "type": "Fresh, No Head",
+      "state": "RN",
+      "stars": 3
+    },
+    {
+      "id": 3,
+      "kind": "L Vannamei7",
+      "price": 21000,
       "duedate": "6/12/2021",
       "weight": "13g-16g",
       "amountkg": "60/70",
